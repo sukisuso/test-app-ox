@@ -1,4 +1,4 @@
-# Test-App exercise for Oxford University Press by Jesús Juan Aguilar
+# Test-App exercise by Jesús Juan Aguilar
 
 # Version used to develop the app:
 - Node -> v10.9.0
